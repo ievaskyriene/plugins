@@ -1,0 +1,62 @@
+/** @format */
+
+table {
+  font-family: "Montserrat", sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table td,
+table th {
+  font-family: "Montserrat", sans-serif;
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+table tr:hover {
+  background-color: #ddd;
+}
+
+table th {
+  font-family: "Montserrat", sans-serif;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #284646;
+  color: white;
+}
+
+button {
+  font-family: "Montserrat", sans-serif;
+  width: 100px;
+}
+
+.container {
+  margin-left: 50px;
+  margin-top: 50px;
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
+
+form {
+  font-family: "Montserrat", sans-serif;
+}
+
+label {
+  font-family: "Montserrat", sans-serif;
+}
+
+input {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+}
